@@ -32,7 +32,7 @@ This is a simple example of a CREW MEMBER page (it still not works responsively,
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/dadobe/devchallenges-my-team-page-master/blob/main/my-team-members.png)
 
 
 ### Built With
@@ -63,4 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@dadobe](https://github.com/dadobe)
